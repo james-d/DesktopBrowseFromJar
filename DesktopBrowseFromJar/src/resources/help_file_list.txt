@@ -1,0 +1,3 @@
+index.html
+help_details.html
+help_intro.html
